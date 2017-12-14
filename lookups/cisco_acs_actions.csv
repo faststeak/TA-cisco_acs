@@ -1,0 +1,4 @@
+vendor_action,action
+Failed-Attempt,failure
+Passed-Authentication,success
+Device-Administration,unknown
