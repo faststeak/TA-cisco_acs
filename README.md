@@ -9,7 +9,7 @@ Splunk TA for Cisco ACS Data
 
 ## Note
 
-ACS data has many mostly usless fields with the same field names:
+ACS data has many mostly useless fields with the same field names:
 * Step=<something>
 * StepData=<something>
 
